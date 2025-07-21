@@ -2,8 +2,8 @@
 
 A simple and elegant calculator built using Flutter.  
 This project contains **two versions** of the calculator:
-1. **Basic Calculator:** Works with two operands (e.g., 5 + 3).
-2. **Advanced Calculator:** Supports multiple operations (e.g., 5 + 3 × 2).
+1. **Basic Calculator:** Works with two operands (e.g., 5 + 3)=>{File: `lib/screen/calculatorScreen.dart`}.
+2. **Advanced Calculator:** Supports multiple operations (e.g., 5 + 3 × 2)=>{File: `lib/screen/calculator_screen_adv.dart`}.
 
 ---
 
